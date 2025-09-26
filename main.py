@@ -32,7 +32,7 @@ def keep_alive():
 keep_alive()
 
 # URL of the page to scrape
-raw_url="https://www.vlr.gg/542266/team-heretics-vs-mibr-valorant-champions-2025-ubqf"
+raw_url="https://www.vlr.gg/542267/nrg-vs-giantx-valorant-champions-2025-ubqf"
 
 # Keep only valid URL characters (letters, numbers, :, /, ., ?, =, &, %, -)
 #url = re.sub(r"[^\w:/.?&=-%]", "", raw_url)
