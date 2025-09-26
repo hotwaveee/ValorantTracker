@@ -114,6 +114,6 @@ def check():
 
 if __name__ == "__main__":
     # Start Flask (keep-alive server)
-    Thread(target=run_flask).start()
+    Thread(target=run).start()
     # Start scraper loop
     Thread(target=check).start()
