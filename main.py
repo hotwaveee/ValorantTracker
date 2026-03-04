@@ -33,7 +33,7 @@ keep_alive()
 
 # URL of the page to scrape
 raw_url="""
-https://www.vlr.gg/625788/gentle-mates-vs-edward-gaming-valorant-masters-santiago-2026-r1
+https://www.vlr.gg/626535/nrg-vs-team-liquid-valorant-masters-santiago-2026-r3
 """
 
 # Keep only valid URL characters (letters, numbers, :, /, ., ?, =, &, %, -)
